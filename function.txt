@@ -1,1 +1,2 @@
 just a test function
+This is a new change form adam myren
